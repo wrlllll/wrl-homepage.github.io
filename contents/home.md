@@ -11,5 +11,5 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: 3.45/5.00  
 
 **QingDao University**, Bachelor of Software Engine (2018 – 2022)  
-• GPA: 3.30/5.00 (top 20%)  
+• GPA: 3.30/5.00 
 
