@@ -3,18 +3,13 @@
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>wangruilin23@mails.ucas.ac.cn</code>  
+<code>184161366@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**University of Chinese Academy of Sciences**, Master of Computer Technology (2024 – 2026)  
+• GPA: 3.45/5.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**QingDao University**, Bachelor of Software Engine (2018 – 2022)  
+• GPA: 3.30/5.00 (top 20%)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
