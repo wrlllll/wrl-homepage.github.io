@@ -10,6 +10,6 @@ I'm currently pursuing a Master's degree in Computer Technology at the Universit
 **University of Chinese Academy of Sciences**, Master of Computer Technology (2024 – 2026)  
 • GPA: 3.45/5.00  
 
-**QingDao University**, Bachelor of Software Engineering (2018 – 2022)  
-• GPA: 3.30/5.00 
+**QingDao University**, Bachelor of Software Engineering (2018 – 2022) 
+• GPA: 3.24/5.00 
 
