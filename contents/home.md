@@ -1,4 +1,4 @@
-[![wrlllll](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/wrlllll)
+[![wrlllll](https://img.shields.io/badge/wrlllll-github-blue?logo=github)](https://github.com/wrlllll)
 
 I'm currently pursuing a Master's degree in Computer Technology at the University of Chinese Academy of Sciences
 
